@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/twu2k7qd23hwnqil?svg=true)](https://ci.appveyor.com/project/Ilya/browser-js-advanced-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/q8s5ae80ai549i1u?svg=true)](https://ci.appveyor.com/project/Ilya/js-browser-adv-1)
