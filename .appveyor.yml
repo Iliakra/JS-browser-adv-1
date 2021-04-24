@@ -1,6 +1,6 @@
 image: Visual Studio 2015 # образ для сборки
 
-stack: node 14 # окружение
+stack: node 10 # окружение
 
 branches:
   only:
